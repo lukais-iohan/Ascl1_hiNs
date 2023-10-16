@@ -4,6 +4,10 @@ Human induced pluripotent stem cells (hiPSCs) have revolutionized the study of h
 
 ![](src/methods_paper.png)
 
-## Author
+## Bioinformatician
 
-- [@lukais.iohan](https://www.github.com/lukais-iohan)
+- [@lukais.iohan](lukais.iohan@gmail.com)
+
+## Correspondent Author 
+
+- [Marcos Costa](marcos.costa@pasteur-lille.fr)
