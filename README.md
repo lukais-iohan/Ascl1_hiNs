@@ -4,10 +4,18 @@ Human induced pluripotent stem cells (hiPSCs) have revolutionized the study of h
 
 ![](src/methods_paper.png)
 
-## Bioinformatician
+## Important!!!
+
+In resume, analyis were done according to the following steps:
+
+1.  Download and processing of mice data from [linnarson group](http://mousebrain.org/);
+2.  Model training with mice data (p20-p30) and classification of cells into excitatory and inhibitory neurons;
+3.  Model training wit mice data (excluding p60) and classification of cells based on regions;
+4.  Differential and Gene Set Enrichment Analyses;
+5.  Regulon Analysis.
+
+
+## Author
 
 - [@lukais.iohan](https://www.github.com/lukais-iohan)
 
-## Correspondent Author 
-
-- [Marcos Costa]  - marcos.costa@pasteur-lille.fr
